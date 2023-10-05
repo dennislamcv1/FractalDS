@@ -1,0 +1,201 @@
+Booking ID,hotel,lead_time,arrival_date_year,arrival_date_month,arrival_month_code,arrival_date_week_number,arrival_date_day_of_month,Date ,stays_in_weekend_nights,stays_in_week_nights,Total night stay,adults,children,babies,meal,Country Code,market_segment,is_repeated_guest,reserved_room_type,assigned_room_type,booking_changes,deposit_type,agent,days_in_waiting_list,customer_type,adr,required_car_parking_spaces,total_of_special_requests,reservation_status,is_cancelled
+70754,City Hotel,68,2017,June,6,27,27,2016-06-27 00:00:00,1,1,2,2,2,0,BB,FRA,Online TA,0,F,F,1,No Deposit,9,0,Transient,198.99,0,2,Check-Out,0
+82552,Resort Hotel,10,2017,September,9,40,30,2016-09-30 00:00:00,0,1,1,1,0,0,BB,USA,Online TA,0,D,D,0,No Deposit,240,0,Transient,149.6,1,1,Check-Out,0
+46283,City Hotel,114,2017,April,4,16,15,2016-04-15 00:00:00,2,2,4,2,0,0,BB,ITA,Online TA,0,A,A,0,No Deposit,9,0,Transient,84.15,0,1,Canceled,1
+3308,City Hotel,35,2017,July,7,31,29,2016-07-29 00:00:00,0,1,1,2,0,0,BB,PRT,Online TA,0,A,A,0,No Deposit,9,0,Transient,111.1,0,1,Check-Out,0
+102303,Resort Hotel,35,2016,July,7,30,24,2015-07-24 00:00:00,2,6,8,2,0,0,BB,PRT,Direct,0,D,D,0,No Deposit,240,0,Transient,169.4,0,2,Check-Out,0
+70007,City Hotel,46,2018,April,4,15,15,2017-04-15 00:00:00,0,1,1,2,0,0,SC,PRT,Online TA,0,A,A,0,No Deposit,9,0,Transient,132,0,0,Check-Out,0
+113309,Resort Hotel,17,2017,January,1,4,18,2016-01-18 00:00:00,1,3,4,1,0,0,BB,,Corporate,0,A,A,0,No Deposit,,0,Transient,31.35,1,0,Check-Out,0
+68078,City Hotel,53,2018,March,3,10,10,2017-03-10 00:00:00,1,2,3,2,0,0,BB,ITA,Online TA,0,D,D,0,No Deposit,9,0,Transient,125.477,0,0,Check-Out,0
+82741,Resort Hotel,53,2018,July,7,28,12,2017-07-12 00:00:00,1,4,5,3,0,0,BB,IRL,Online TA,0,A,A,3,No Deposit,240,0,Transient,246.4,0,1,Check-Out,0
+14280,City Hotel,370,2016,October,10,42,12,2015-10-12 00:00:00,1,1,2,2,0,0,BB,PRT,Groups,0,A,A,0,Non Refund,1,0,Contract,68.2,0,0,Canceled,1
+114492,Resort Hotel,22,2017,November,11,47,19,2016-11-19 00:00:00,0,1,1,2,0,0,BB,GBR,Offline TA/TO,0,A,D,0,No Deposit,336,0,Transient,31.9,0,0,Check-Out,0
+90095,City Hotel,24,2016,September,9,36,2,2015-09-02 00:00:00,0,1,1,2,0,0,BB,DEU,Online TA,0,A,D,0,No Deposit,10,0,Transient,103.95,0,1,Check-Out,0
+90596,Resort Hotel,145,2017,September,9,37,7,2016-09-07 00:00:00,2,8,10,2,0,0,BB,GBR,Online TA,0,A,A,1,No Deposit,240,0,Transient,166.1,1,1,Check-Out,0
+32905,City Hotel,51,2017,March,3,12,13,2016-03-13 00:00:00,2,1,3,2,0,0,BB,POL,Corporate,0,A,A,0,No Deposit,,0,Transient-Party,94.237,0,0,Check-Out,0
+87591,City Hotel,89,2016,October,10,41,10,2015-10-10 00:00:00,1,1,2,2,0,0,BB,ESP,Groups,0,A,A,0,No Deposit,1,0,Transient-Party,68.2,0,0,Check-Out,0
+33007,City Hotel,109,2017,February,2,8,19,2016-02-19 00:00:00,0,1,1,2,0,0,BB,PRT,Corporate,0,A,A,0,No Deposit,,0,Transient-Party,88,0,0,Canceled,1
+40426,Resort Hotel,182,2018,July,7,29,18,2017-07-18 00:00:00,2,5,7,2,0,0,BB,ROU,Online TA,0,A,A,0,No Deposit,241,0,Transient,126.445,0,1,Check-Out,0
+94844,Resort Hotel,58,2018,March,3,12,23,2017-03-23 00:00:00,2,5,7,2,0,0,Undefined,FRA,Offline TA/TO,0,C,C,0,No Deposit,464,0,Transient-Party,77,1,1,Check-Out,0
+58300,City Hotel,54,2017,July,7,28,8,2016-07-08 00:00:00,0,1,1,2,0,0,BB,PRT,Corporate,0,A,A,2,No Deposit,,0,Transient,82.5,0,0,Check-Out,0
+54419,Resort Hotel,187,2017,June,6,24,11,2016-06-11 00:00:00,2,4,6,2,0,0,HB,PRT,Direct,0,A,A,1,No Deposit,,0,Transient,102.3,0,2,Check-Out,0
+4940,Resort Hotel,10,2016,August,8,32,2,2015-08-02 00:00:00,2,0,2,2,0,0,BB,ESP,Online TA,0,D,D,0,No Deposit,240,0,Transient,211.2,0,0,Check-Out,0
+29096,City Hotel,74,2017,August,8,35,27,2016-08-27 00:00:00,2,1,3,2,0,0,BB,GBR,Online TA,0,D,D,0,No Deposit,9,0,Transient,157.74,0,1,Canceled,1
+34829,Resort Hotel,139,2018,February,2,7,14,2017-02-14 00:00:00,0,1,1,3,1,0,BB,FRA,Online TA,0,H,H,0,No Deposit,240,0,Transient,95.7,0,0,Check-Out,0
+108618,Resort Hotel,247,2018,May,5,21,21,2017-05-21 00:00:00,2,4,6,2,0,0,BB,FRA,Online TA,0,D,D,0,No Deposit,240,0,Transient,83.82,0,1,Canceled,1
+117201,City Hotel,46,2016,October,10,42,13,2015-10-13 00:00:00,0,3,3,1,0,0,HB,PRT,Offline TA/TO,0,A,A,0,No Deposit,26,0,Transient-Party,100.1,0,0,Check-Out,0
+73732,City Hotel,107,2017,July,7,30,23,2016-07-23 00:00:00,2,1,3,2,1,0,BB,PRT,Online TA,0,D,D,0,No Deposit,7,0,Transient,115.456,0,2,Check-Out,0
+50136,City Hotel,49,2017,December,12,53,27,2016-12-27 00:00:00,0,1,1,1,0,0,BB,BRA,Offline TA/TO,0,A,A,1,No Deposit,220,0,Transient-Party,71.5,0,0,Check-Out,0
+55282,City Hotel,222,2018,August,8,35,28,2017-08-28 00:00:00,2,5,7,2,0,0,BB,PRT,Online TA,0,A,A,0,No Deposit,7,0,Transient,94.149,0,0,Check-Out,0
+90599,Resort Hotel,14,2018,January,1,2,14,2017-01-14 00:00:00,0,1,1,2,0,0,HB,PRT,Groups,0,A,D,0,No Deposit,168,0,Transient-Party,110,0,1,Check-Out,0
+20282,Resort Hotel,44,2017,March,3,13,24,2016-03-24 00:00:00,0,3,3,2,0,1,BB,ESP,Online TA,0,E,E,1,No Deposit,241,0,Transient,71.995,0,2,Check-Out,0
+78481,Resort Hotel,122,2016,December,12,53,30,2015-12-30 00:00:00,0,3,3,2,0,0,Undefined,PRT,Groups,0,D,D,0,No Deposit,,0,Transient-Party,261.063,0,0,Check-Out,0
+37698,City Hotel,333,2016,September,9,36,5,2015-09-05 00:00:00,1,1,2,2,0,0,BB,PRT,Groups,0,A,A,0,Non Refund,1,0,Transient-Party,68.2,0,0,Canceled,1
+38572,Resort Hotel,162,2018,July,7,29,16,2017-07-16 00:00:00,2,3,5,2,2,0,HB,PRT,Offline TA/TO,0,C,C,1,No Deposit,196,0,Transient,207.515,0,0,Check-Out,0
+68379,City Hotel,32,2016,October,10,42,13,2015-10-13 00:00:00,2,5,7,2,0,0,BB,PRT,Online TA,0,A,A,0,No Deposit,10,0,Transient,138.6,0,0,Canceled,1
+110371,Resort Hotel,59,2018,August,8,34,25,2017-08-25 00:00:00,1,2,3,2,0,0,BB,USA,Online TA,0,A,A,0,No Deposit,241,0,Transient,173.789,0,1,Check-Out,0
+37549,Resort Hotel,82,2017,February,2,6,6,2016-02-06 00:00:00,2,1,3,2,0,0,HB,PRT,Groups,0,D,D,0,No Deposit,,0,Transient-Party,80.663,0,0,Canceled,1
+35906,City Hotel,16,2017,February,2,6,4,2016-02-04 00:00:00,0,3,3,2,0,0,BB,PRT,Offline TA/TO,0,A,A,0,No Deposit,28,0,Transient,72.6,0,0,Check-Out,0
+97368,Resort Hotel,59,2017,April,4,14,1,2016-04-01 00:00:00,2,7,9,2,0,0,BB,IRL,Direct,0,E,E,0,No Deposit,,0,Transient-Party,78.1,0,1,Check-Out,0
+51872,Resort Hotel,16,2017,December,12,53,27,2016-12-27 00:00:00,0,4,4,1,0,0,BB,ESP,Online TA,0,A,E,0,No Deposit,240,0,Transient,91.85,0,0,Check-Out,0
+89766,City Hotel,387,2016,October,10,44,29,2015-10-29 00:00:00,0,2,2,2,0,0,BB,PRT,Groups,0,A,A,0,Non Refund,1,0,Contract,68.2,0,0,Canceled,0
+100115,Resort Hotel,26,2017,April,4,18,29,2016-04-29 00:00:00,2,5,7,2,0,0,BB,NLD,Offline TA/TO,0,A,C,0,No Deposit,71,0,Transient-Party,45.54,0,0,Check-Out,0
+66028,City Hotel,56,2017,December,12,50,8,2016-12-08 00:00:00,0,3,3,2,0,0,BB,ESP,Online TA,0,A,A,1,No Deposit,9,0,Transient,112.86,0,2,Check-Out,0
+93288,Resort Hotel,18,2017,October,10,41,6,2016-10-06 00:00:00,1,3,4,2,0,0,BB,ESP,Groups,0,A,A,1,No Deposit,,0,Transient-Party,55,0,0,Check-Out,0
+101935,City Hotel,38,2017,June,6,25,13,2016-06-13 00:00:00,1,2,3,2,0,0,BB,FRA,Online TA,0,D,D,0,No Deposit,9,0,Transient,143.88,0,0,Canceled,1
+118426,Resort Hotel,374,2017,October,10,42,12,2016-10-12 00:00:00,0,4,4,1,0,0,BB,GBR,Groups,0,A,A,1,No Deposit,,0,Transient-Party,66,0,0,Check-Out,0
+5739,City Hotel,79,2017,September,9,37,8,2016-09-08 00:00:00,1,3,4,3,0,0,BB,FRA,Online TA,0,D,D,0,No Deposit,9,0,Transient,185.13,0,2,Check-Out,0
+15422,Resort Hotel,32,2017,January,1,2,3,2016-01-03 00:00:00,2,4,6,2,0,0,BB,PRT,Online TA,0,E,E,0,No Deposit,240,0,Transient,105.6,0,2,Canceled,1
+15998,Resort Hotel,140,2017,March,3,12,13,2016-03-13 00:00:00,2,5,7,2,0,0,BB,GBR,Offline TA/TO,0,A,A,0,No Deposit,115,0,Transient,30.591,0,0,Check-Out,0
+25555,Resort Hotel,72,2016,October,10,44,25,2015-10-25 00:00:00,2,5,7,2,0,0,BB,DEU,Online TA,0,I,I,1,No Deposit,240,0,Transient,51.7,0,2,Check-Out,0
+77266,City Hotel,94,2017,July,7,29,13,2016-07-13 00:00:00,0,4,4,3,0,0,BB,GRC,Online TA,0,D,D,0,No Deposit,9,0,Transient,151.47,0,0,Canceled,1
+71553,City Hotel,25,2017,December,12,53,27,2016-12-27 00:00:00,0,3,3,2,0,0,BB,BRA,Offline TA/TO,0,A,K,2,No Deposit,220,0,Transient-Party,52.063,0,1,Check-Out,0
+118992,City Hotel,107,2018,August,8,33,18,2017-08-18 00:00:00,1,2,3,3,0,0,BB,PRT,Online TA,0,D,D,0,No Deposit,9,0,Transient,214.5,0,1,Canceled,1
+37233,Resort Hotel,233,2017,May,5,22,24,2016-05-24 00:00:00,1,5,6,2,0,0,BB,GBR,Groups,0,A,A,3,No Deposit,,0,Transient-Party,72.6,0,0,Check-Out,0
+20811,Resort Hotel,230,2018,May,5,21,22,2017-05-22 00:00:00,3,7,10,2,0,0,HB,GBR,Direct,0,A,A,0,No Deposit,250,0,Transient,95.15,0,0,Canceled,1
+10571,City Hotel,184,2018,July,7,26,1,2017-07-01 00:00:00,2,3,5,3,0,0,BB,GBR,Online TA,0,D,D,0,No Deposit,9,0,Transient,162.69,0,0,Check-Out,0
+50158,City Hotel,63,2018,February,2,5,4,2017-02-04 00:00:00,0,1,1,2,0,0,BB,BRA,Online TA,0,A,A,0,No Deposit,9,0,Transient,104.94,0,3,Check-Out,0
+42485,City Hotel,45,2018,February,2,8,25,2017-02-25 00:00:00,2,2,4,3,0,0,BB,ITA,Online TA,0,D,D,0,No Deposit,9,0,Transient,147.73,0,1,Canceled,1
+652,Resort Hotel,31,2018,April,4,17,29,2017-04-29 00:00:00,1,1,2,2,2,0,BB,PRT,Online TA,0,C,C,0,No Deposit,240,0,Transient,137.5,0,2,Canceled,1
+104570,Resort Hotel,18,2016,July,7,29,14,2015-07-14 00:00:00,2,5,7,2,0,0,HB,ESP,Online TA,0,I,I,1,No Deposit,240,0,Transient,185.427,0,1,Check-Out,0
+88664,City Hotel,22,2016,October,10,43,20,2015-10-20 00:00:00,0,2,2,1,0,0,BB,SWE,Corporate,0,A,B,0,No Deposit,,0,Transient-Party,143,0,0,Check-Out,0
+21000,City Hotel,36,2018,April,4,17,29,2017-04-29 00:00:00,1,1,2,2,0,0,SC,BRA,Online TA,0,A,A,0,No Deposit,9,0,Transient,126.5,0,1,Canceled,1
+96187,Resort Hotel,50,2018,January,1,3,16,2017-01-16 00:00:00,1,2,3,1,0,0,Undefined,PRT,Groups,0,A,E,0,No Deposit,,0,Transient-Party,60.5,0,0,Check-Out,0
+50874,City Hotel,156,2018,March,3,12,25,2017-03-25 00:00:00,2,2,4,2,0,0,BB,FRA,Online TA,0,A,K,0,No Deposit,7,0,Transient,71.137,0,1,Check-Out,0
+112723,Resort Hotel,16,2016,August,8,32,3,2015-08-03 00:00:00,1,5,6,2,0,0,HB,PRT,Online TA,0,A,C,0,No Deposit,240,0,Transient,243.1,0,3,Check-Out,0
+69158,City Hotel,11,2018,January,1,2,10,2017-01-10 00:00:00,0,1,1,1,0,0,BB,PRT,Corporate,0,A,A,0,No Deposit,,0,Transient,71.5,0,0,Check-Out,0
+23031,City Hotel,74,2017,April,4,14,1,2016-04-01 00:00:00,2,3,5,3,0,0,BB,FRA,Online TA,0,D,D,0,No Deposit,9,0,Transient,131.461,0,2,Check-Out,0
+66863,Resort Hotel,11,2017,March,3,11,8,2016-03-08 00:00:00,0,1,1,1,0,0,BB,PRT,Direct,0,G,G,0,No Deposit,,0,Transient,0,1,2,Check-Out,0
+83720,City Hotel,84,2016,September,9,38,18,2015-09-18 00:00:00,0,2,2,2,0,0,HB,PRT,Offline TA/TO,0,A,A,0,Non Refund,6,0,Transient-Party,111.65,0,0,Canceled,0
+10309,City Hotel,14,2017,August,8,33,8,2016-08-08 00:00:00,1,1,2,2,0,0,SC,PRT,Online TA,0,A,A,0,No Deposit,9,0,Transient,184.8,1,2,Check-Out,0
+17832,City Hotel,40,2018,April,4,15,9,2017-04-09 00:00:00,2,0,2,2,0,0,BB,AUT,Online TA,0,A,A,0,No Deposit,9,0,Transient,163.9,0,0,Canceled,1
+58670,City Hotel,165,2017,July,7,30,18,2016-07-18 00:00:00,1,1,2,2,0,0,SC,NLD,Online TA,0,A,A,0,No Deposit,9,0,Transient,113.85,0,0,Check-Out,0
+94573,Resort Hotel,222,2017,April,4,16,11,2016-04-11 00:00:00,2,5,7,2,0,0,HB,PRT,Groups,0,A,A,0,Non Refund,273,0,Transient,73.755,0,0,Canceled,0
+41243,City Hotel,131,2017,May,5,20,14,2016-05-14 00:00:00,1,1,2,2,0,0,HB,PRT,Groups,0,A,A,0,Non Refund,1,0,Transient,105.6,0,0,Canceled,0
+14919,City Hotel,69,2018,January,1,4,23,2017-01-23 00:00:00,1,1,2,2,0,0,BB,PRT,Groups,0,A,A,0,Non Refund,326,0,Transient,88,0,0,Canceled,0
+3747,City Hotel,21,2016,December,12,50,11,2015-12-11 00:00:00,1,2,3,2,0,0,BB,ESP,Online TA,0,A,A,0,No Deposit,9,0,Contract,105.6,1,2,Check-Out,0
+91314,City Hotel,415,2017,August,8,34,18,2016-08-18 00:00:00,0,2,2,2,0,0,BB,PRT,Groups,0,A,A,0,Non Refund,1,0,Transient,68.2,0,0,Canceled,0
+48164,City Hotel,20,2018,March,3,9,2,2017-03-02 00:00:00,0,1,1,2,0,0,BB,ITA,Online TA,0,A,A,4,No Deposit,9,0,Transient,118.8,0,0,Canceled,1
+59897,City Hotel,12,2016,August,8,34,21,2015-08-21 00:00:00,1,2,3,2,0,0,BB,ESP,Online TA,0,A,A,0,No Deposit,9,0,Contract,110.737,0,2,Check-Out,0
+113647,Resort Hotel,14,2017,February,2,7,13,2016-02-13 00:00:00,0,1,1,2,0,0,BB,PRT,Online TA,0,A,E,0,No Deposit,240,0,Transient,74.8,0,1,Check-Out,0
+98631,City Hotel,230,2017,October,10,44,24,2016-10-24 00:00:00,1,4,5,2,1,0,SC,FRA,Online TA,0,A,A,1,No Deposit,9,0,Transient,130.075,0,1,Canceled,1
+33333,City Hotel,40,2017,March,3,10,5,2016-03-05 00:00:00,2,1,3,2,0,0,SC,ITA,Online TA,0,A,A,0,No Deposit,9,0,Transient,83.71,0,2,Check-Out,0
+5642,City Hotel,78,2018,May,5,18,4,2017-05-04 00:00:00,0,3,3,3,0,0,BB,USA,Online TA,0,E,E,0,No Deposit,9,0,Transient,237.6,0,1,Check-Out,0
+111701,City Hotel,33,2017,February,2,7,12,2016-02-12 00:00:00,1,2,3,2,0,0,BB,NLD,Online TA,0,A,A,0,No Deposit,9,0,Transient,80.08,0,0,Canceled,1
+108483,City Hotel,133,2018,August,8,32,7,2017-08-07 00:00:00,1,1,2,2,0,0,SC,DEU,Online TA,0,A,A,0,No Deposit,9,0,Transient,137.5,0,0,Canceled,1
+26799,Resort Hotel,14,2016,July,7,30,19,2015-07-19 00:00:00,2,0,2,2,0,0,BB,PRT,Online TA,0,E,E,0,No Deposit,240,0,Transient,169.95,1,2,Check-Out,0
+38712,Resort Hotel,165,2016,October,10,44,31,2015-10-31 00:00:00,0,1,1,2,0,0,BB,PRT,Groups,0,I,I,0,Non Refund,,0,Transient,39.6,0,0,Canceled,0
+16345,City Hotel,287,2017,November,11,46,7,2016-11-07 00:00:00,1,2,3,2,0,0,BB,PRT,Groups,0,A,A,0,Non Refund,,0,Transient,110,0,0,Canceled,0
+37123,City Hotel,23,2016,December,12,51,15,2015-12-15 00:00:00,0,4,4,1,0,0,BB,PRT,Corporate,1,A,A,0,No Deposit,,0,Transient-Party,71.5,0,0,Check-Out,0
+76709,Resort Hotel,275,2016,September,9,39,24,2015-09-24 00:00:00,1,3,4,2,0,0,HB,BEL,Groups,0,A,A,0,Non Refund,183,0,Transient,98.12,0,0,Canceled,1
+22839,City Hotel,325,2017,December,12,49,2,2016-12-02 00:00:00,0,2,2,2,0,0,BB,PRT,Offline TA/TO,0,A,A,0,Non Refund,20,0,Transient,57.2,0,0,Canceled,0
+64480,City Hotel,10,2018,February,2,6,11,2017-02-11 00:00:00,1,1,2,1,0,0,BB,QAT,Direct,0,A,A,2,No Deposit,,0,Transient-Party,114.4,0,0,Check-Out,0
+93676,Resort Hotel,53,2018,January,1,4,27,2017-01-27 00:00:00,1,2,3,2,0,0,BB,ITA,Online TA,0,A,D,0,No Deposit,240,0,Transient-Party,52.8,0,1,Check-Out,0
+41021,City Hotel,28,2017,May,5,20,9,2016-05-09 00:00:00,1,1,2,1,0,0,BB,GBR,Offline TA/TO,0,A,A,0,No Deposit,79,0,Transient,97.68,0,0,Check-Out,0
+23915,City Hotel,266,2016,September,9,38,14,2015-09-14 00:00:00,1,2,3,2,0,0,BB,SWE,Offline TA/TO,0,A,A,0,No Deposit,4,0,Transient-Party,84.337,0,0,Check-Out,0
+49763,City Hotel,46,2017,March,3,13,24,2016-03-24 00:00:00,0,1,1,2,1,0,BB,ESP,Online TA,0,A,A,0,No Deposit,9,0,Transient,126.72,0,0,Canceled,1
+28335,Resort Hotel,147,2017,October,10,44,26,2016-10-26 00:00:00,2,5,7,2,0,0,BB,GBR,Online TA,0,A,A,0,No Deposit,241,0,Transient,42.306,0,1,Check-Out,0
+47810,City Hotel,428,2017,September,9,40,26,2016-09-26 00:00:00,1,2,3,2,0,0,HB,DEU,Offline TA/TO,0,A,A,0,No Deposit,132,223,Transient-Party,117.7,0,0,Check-Out,0
+36308,City Hotel,10,2016,October,10,43,19,2015-10-19 00:00:00,1,0,1,2,1,0,BB,PRT,Direct,0,D,D,0,No Deposit,,0,Transient,176,0,0,Check-Out,0
+8392,City Hotel,50,2018,June,6,24,16,2017-06-16 00:00:00,1,2,3,2,0,0,SC,CHN,Online TA,0,A,A,0,No Deposit,9,0,Transient-Party,154,0,1,Check-Out,0
+35251,City Hotel,10,2017,January,1,3,11,2016-01-11 00:00:00,1,2,3,1,0,0,BB,PRT,Corporate,1,A,A,0,No Deposit,,0,Transient,71.5,0,0,Check-Out,0
+90720,Resort Hotel,19,2017,December,12,52,24,2016-12-24 00:00:00,1,1,2,2,0,0,BB,PRT,Corporate,0,D,D,0,No Deposit,,0,Transient,49.5,0,1,No-Show,1
+109196,Resort Hotel,230,2017,July,7,27,1,2016-07-01 00:00:00,2,6,8,1,0,0,HB,PRT,Online TA,0,A,A,1,No Deposit,240,0,Transient,122.1,0,1,Canceled,1
+107639,City Hotel,12,2017,January,1,5,27,2016-01-27 00:00:00,0,1,1,1,0,0,BB,PRT,Complementary,0,A,E,0,No Deposit,,0,Transient-Party,0,0,0,Check-Out,0
+56697,City Hotel,79,2018,March,3,11,15,2017-03-15 00:00:00,0,3,3,2,0,0,BB,NLD,Online TA,0,A,A,0,No Deposit,9,0,Transient,106.92,0,1,Check-Out,0
+86009,City Hotel,32,2016,July,7,30,22,2015-07-22 00:00:00,0,2,2,2,0,0,BB,PRT,Groups,0,A,A,0,Non Refund,1,0,Transient-Party,68.2,0,0,Canceled,0
+11308,City Hotel,73,2018,July,7,30,26,2017-07-26 00:00:00,0,3,3,2,2,0,BB,ISR,Online TA,0,F,F,4,No Deposit,7,0,Transient,200.64,0,1,Check-Out,0
+18679,City Hotel,160,2018,June,6,22,2,2017-06-02 00:00:00,2,2,4,2,0,0,BB,DEU,Direct,0,A,A,0,No Deposit,14,0,Transient-Party,138.6,0,0,Check-Out,0
+48709,City Hotel,229,2017,August,8,34,20,2016-08-20 00:00:00,1,1,2,2,0,0,HB,ITA,Groups,0,A,A,0,No Deposit,1,0,Transient-Party,105.6,0,0,Check-Out,0
+115015,City Hotel,320,2018,April,4,17,23,2017-04-23 00:00:00,2,2,4,2,0,0,BB,PRT,Offline TA/TO,0,A,A,0,No Deposit,21,0,Transient-Party,82.5,0,0,Canceled,1
+14233,City Hotel,80,2017,March,3,14,28,2016-03-28 00:00:00,1,2,3,2,0,0,BB,PRT,Offline TA/TO,0,A,A,0,No Deposit,28,0,Transient,65.45,0,0,Check-Out,0
+69685,City Hotel,22,2018,July,7,29,21,2017-07-21 00:00:00,2,2,4,2,1,0,HB,ESP,Online TA,0,A,A,0,No Deposit,42,0,Transient,191.18,0,2,Check-Out,0
+15011,City Hotel,279,2016,July,7,29,13,2015-07-13 00:00:00,1,1,2,2,0,0,BB,PRT,Groups,0,A,A,0,No Deposit,1,0,Contract,68.2,0,0,Canceled,1
+18027,City Hotel,142,2016,July,7,30,23,2015-07-23 00:00:00,0,1,1,2,0,0,HB,PRT,Groups,0,A,A,0,No Deposit,1,0,Transient-Party,99,0,0,Check-Out,0
+102337,Resort Hotel,189,2017,August,8,33,12,2016-08-12 00:00:00,2,6,8,2,0,0,BB,ITA,Online TA,0,A,A,0,No Deposit,240,0,Transient,191.4,0,1,Check-Out,0
+97647,City Hotel,15,2018,May,5,19,9,2017-05-09 00:00:00,0,1,1,2,0,0,BB,PRT,Groups,0,A,A,0,Non Refund,47,0,Transient,99,0,0,Canceled,0
+61666,City Hotel,433,2018,May,5,21,23,2017-05-23 00:00:00,0,1,1,2,0,0,BB,PRT,Groups,0,A,A,0,Non Refund,229,0,Transient,99,0,0,Canceled,0
+102351,City Hotel,87,2017,June,6,25,17,2016-06-17 00:00:00,0,2,2,2,0,0,SC,HKG,Online TA,0,A,A,0,No Deposit,9,0,Transient,127.71,0,0,Canceled,1
+17334,Resort Hotel,12,2017,January,1,3,10,2016-01-10 00:00:00,1,0,1,1,0,0,BB,PRT,Offline TA/TO,0,A,D,0,No Deposit,314,0,Transient,34.1,1,0,Check-Out,0
+79816,Resort Hotel,12,2018,May,5,19,7,2017-05-07 00:00:00,2,0,2,2,0,0,BB,PRT,Online TA,0,A,B,0,No Deposit,240,0,Transient,87.45,1,1,Check-Out,0
+5137,City Hotel,153,2017,August,8,35,25,2016-08-25 00:00:00,0,3,3,2,0,0,BB,CZE,Offline TA/TO,0,A,A,0,No Deposit,36,0,Transient-Party,110,0,0,Check-Out,0
+115819,City Hotel,333,2017,May,5,22,26,2016-05-26 00:00:00,0,2,2,2,0,0,BB,PRT,Groups,0,A,A,0,Non Refund,1,0,Transient,68.2,0,0,Canceled,0
+75847,City Hotel,22,2017,October,10,44,25,2016-10-25 00:00:00,0,3,3,1,0,0,BB,BIH,Online TA,0,A,A,0,No Deposit,9,0,Transient,143,0,2,Check-Out,0
+69375,City Hotel,97,2016,September,9,37,11,2015-09-11 00:00:00,0,1,1,1,0,0,BB,FRA,Groups,0,A,A,0,No Deposit,,0,Transient-Party,110,0,0,Canceled,1
+13788,City Hotel,489,2018,August,8,32,9,2017-08-09 00:00:00,0,3,3,2,0,0,BB,GBR,Offline TA/TO,0,A,A,0,No Deposit,229,0,Transient-Party,123.937,0,1,Check-Out,0
+36708,Resort Hotel,10,2017,December,12,51,15,2016-12-15 00:00:00,2,5,7,2,0,0,Undefined,FRA,Offline TA/TO,0,A,A,0,No Deposit,464,0,Transient,72.6,0,0,Check-Out,0
+39633,Resort Hotel,59,2016,July,7,30,20,2015-07-20 00:00:00,3,6,9,2,0,0,FB,PRT,Offline TA/TO,0,G,G,0,No Deposit,15,0,Transient,122.32,0,0,Canceled,1
+99963,Resort Hotel,230,2017,July,7,27,1,2016-07-01 00:00:00,2,6,8,2,0,0,HB,PRT,Online TA,0,A,A,1,No Deposit,240,0,Transient,132,0,1,Canceled,1
+37824,Resort Hotel,46,2017,December,12,51,12,2016-12-12 00:00:00,1,1,2,1,0,0,BB,ITA,Online TA,0,A,D,0,No Deposit,240,0,Transient-Party,47.3,0,2,Check-Out,0
+63374,City Hotel,57,2017,September,9,37,10,2016-09-10 00:00:00,1,1,2,2,0,0,HB,ITA,Groups,0,A,A,3,No Deposit,1,0,Transient-Party,105.6,0,1,Check-Out,0
+96865,Resort Hotel,156,2016,October,10,43,19,2015-10-19 00:00:00,2,5,7,1,0,0,BB,GBR,Online TA,0,A,A,0,No Deposit,240,0,Transient,51.7,0,2,Check-Out,0
+33088,City Hotel,44,2016,December,12,50,8,2015-12-08 00:00:00,0,2,2,1,0,0,BB,PRT,Offline TA/TO,0,A,A,0,Non Refund,19,0,Transient,99,0,0,Canceled,0
+6216,City Hotel,67,2017,November,11,47,17,2016-11-17 00:00:00,0,2,2,2,0,0,HB,BEL,Online TA,0,D,D,0,No Deposit,9,0,Transient,150.48,0,1,Canceled,1
+8207,City Hotel,10,2018,March,3,9,3,2017-03-03 00:00:00,0,1,1,1,0,0,SC,USA,Direct,0,A,A,0,No Deposit,,0,Transient,96.8,0,0,Check-Out,0
+92656,Resort Hotel,108,2016,August,8,32,8,2015-08-08 00:00:00,2,5,7,2,0,0,HB,PRT,Offline TA/TO,0,I,I,0,No Deposit,127,0,Transient,151.8,0,0,Check-Out,0
+60721,City Hotel,202,2017,August,8,35,25,2016-08-25 00:00:00,2,3,5,3,0,0,BB,ESP,Direct,0,D,D,1,No Deposit,14,0,Transient,139.315,0,1,Check-Out,0
+27069,City Hotel,31,2017,October,10,44,26,2016-10-26 00:00:00,0,2,2,2,0,0,SC,PRT,Online TA,0,A,A,0,No Deposit,8,0,Transient,121,0,1,Canceled,1
+73305,City Hotel,35,2018,June,6,23,5,2017-06-05 00:00:00,1,2,3,1,0,0,SC,GBR,Direct,0,A,A,1,No Deposit,14,0,Transient,154,0,0,Check-Out,0
+30295,City Hotel,323,2018,April,4,17,29,2017-04-29 00:00:00,2,1,3,2,0,0,BB,PRT,Offline TA/TO,0,A,A,0,Non Refund,6,0,Transient,99,0,0,Canceled,0
+109482,Resort Hotel,54,2017,December,12,50,8,2016-12-08 00:00:00,0,3,3,2,0,0,FB,PRT,Offline TA/TO,0,A,A,0,No Deposit,6,0,Transient,79.2,0,0,Check-Out,0
+41974,City Hotel,275,2017,June,6,26,24,2016-06-24 00:00:00,0,2,2,1,0,0,HB,DEU,Offline TA/TO,0,A,B,1,No Deposit,6,0,Transient-Party,99,0,0,Check-Out,0
+8665,City Hotel,194,2017,July,7,29,10,2016-07-10 00:00:00,1,0,1,2,0,0,BB,NLD,Online TA,0,A,A,0,No Deposit,9,0,Transient,115.83,0,1,Check-Out,0
+29991,City Hotel,28,2018,February,2,7,15,2017-02-15 00:00:00,0,3,3,2,0,0,BB,GBR,Online TA,0,D,D,0,No Deposit,9,0,Transient,129.8,0,0,Canceled,1
+91067,Resort Hotel,14,2018,January,1,4,27,2017-01-27 00:00:00,1,2,3,1,0,0,BB,GBR,Online TA,0,A,A,0,No Deposit,240,0,Transient,47.3,0,2,Check-Out,0
+9582,City Hotel,37,2017,December,12,50,6,2016-12-06 00:00:00,0,4,4,2,0,0,SC,FRA,Online TA,0,A,A,0,No Deposit,9,0,Transient,82.28,0,1,Check-Out,0
+11597,City Hotel,14,2018,June,6,25,20,2017-06-20 00:00:00,0,1,1,1,0,0,SC,ESP,Online TA,0,E,E,0,No Deposit,195,0,Transient,220,0,0,Check-Out,0
+61356,City Hotel,58,2018,February,2,8,22,2017-02-22 00:00:00,0,2,2,1,0,0,BB,ESP,Groups,0,A,A,0,No Deposit,,0,Transient-Party,71.5,0,1,Check-Out,0
+17721,City Hotel,287,2017,November,11,46,7,2016-11-07 00:00:00,1,2,3,2,0,0,BB,PRT,Groups,0,A,A,0,Non Refund,,0,Transient,110,0,0,Canceled,0
+5621,City Hotel,14,2017,September,9,40,25,2016-09-25 00:00:00,2,4,6,2,0,0,BB,CHE,Direct,0,E,E,1,No Deposit,,0,Transient,205.975,0,0,Check-Out,0
+75577,City Hotel,361,2017,June,6,26,23,2016-06-23 00:00:00,0,2,2,2,0,0,BB,PRT,Groups,0,A,A,0,Non Refund,1,0,Transient,68.2,0,0,Canceled,0
+28780,City Hotel,50,2017,March,3,10,4,2016-03-04 00:00:00,0,2,2,3,0,0,BB,BEL,Online TA,0,A,A,0,No Deposit,9,0,Transient,138.93,0,2,Check-Out,0
+72585,City Hotel,218,2018,June,6,25,21,2017-06-21 00:00:00,0,3,3,2,0,0,BB,CN,Online TA,0,D,D,2,No Deposit,9,0,Transient,147.037,0,2,Check-Out,0
+10732,City Hotel,10,2017,October,10,43,17,2016-10-17 00:00:00,1,1,2,1,0,0,BB,ESP,Direct,0,A,A,2,No Deposit,,0,Transient-Party,104.5,0,0,Check-Out,0
+118803,Resort Hotel,49,2018,May,5,21,26,2017-05-26 00:00:00,0,2,2,3,1,0,BB,PRT,Online TA,0,H,H,0,No Deposit,240,0,Transient,198,0,0,Canceled,1
+13576,City Hotel,175,2018,July,7,28,12,2017-07-12 00:00:00,0,1,1,2,0,0,SC,FRA,Online TA,0,A,A,0,No Deposit,9,0,Transient,98.01,0,1,Check-Out,0
+105225,City Hotel,13,2016,November,11,45,6,2015-11-06 00:00:00,0,2,2,1,0,0,BB,DEU,Online TA,0,A,A,0,No Deposit,9,0,Contract,111.1,0,2,Check-Out,0
+45394,City Hotel,24,2016,September,9,39,21,2015-09-21 00:00:00,1,2,3,2,0,0,BB,FRA,Online TA,0,A,A,0,No Deposit,9,0,Contract,136.4,0,0,Check-Out,0
+115703,Resort Hotel,143,2018,February,2,7,13,2017-02-13 00:00:00,1,0,1,2,0,0,BB,NLD,Online TA,0,A,D,0,No Deposit,240,0,Transient,41.58,1,2,Check-Out,0
+1542,Resort Hotel,333,2018,June,6,22,3,2017-06-03 00:00:00,2,5,7,2,0,0,BB,PRT,Groups,0,A,A,0,Non Refund,,0,Transient,79.2,0,0,Canceled,0
+80246,City Hotel,287,2017,November,11,46,7,2016-11-07 00:00:00,1,2,3,2,0,0,BB,PRT,Groups,0,A,A,0,Non Refund,,0,Transient,110,0,0,Canceled,0
+41242,City Hotel,53,2017,May,5,20,14,2016-05-14 00:00:00,0,1,1,2,0,0,BB,PRT,Online TA,0,D,D,0,No Deposit,9,0,Transient,154.44,0,0,Canceled,1
+112337,Resort Hotel,45,2017,April,4,15,8,2016-04-08 00:00:00,0,2,2,2,0,0,BB,PRT,Direct,0,A,E,0,No Deposit,250,0,Transient,59.4,0,0,Check-Out,0
+78113,City Hotel,382,2017,July,7,29,14,2016-07-14 00:00:00,0,2,2,2,0,0,BB,PRT,Groups,0,A,A,0,Non Refund,1,0,Transient,68.2,0,0,Canceled,0
+21787,City Hotel,296,2016,July,7,31,30,2015-07-30 00:00:00,0,2,2,2,0,0,BB,PRT,Groups,1,A,A,0,No Deposit,1,0,Transient-Party,69.08,0,0,Canceled,1
+45577,City Hotel,253,2018,July,7,30,26,2017-07-26 00:00:00,0,4,4,2,0,0,BB,PRT,Groups,0,A,A,0,Non Refund,,0,Transient,121,0,0,Canceled,0
+109743,City Hotel,11,2018,April,4,14,5,2017-04-05 00:00:00,0,1,1,1,0,0,BB,PRT,Offline TA/TO,0,D,D,0,No Deposit,103,0,Transient,173.25,0,0,Canceled,1
+18066,City Hotel,454,2017,December,12,49,1,2016-12-01 00:00:00,0,3,3,1,0,0,BB,PRT,Offline TA/TO,0,A,A,0,Non Refund,34,39,Transient,82.5,0,0,Canceled,0
+20745,City Hotel,296,2017,May,5,20,11,2016-05-11 00:00:00,0,4,4,2,0,0,BB,AUT,Groups,0,A,A,0,No Deposit,30,176,Transient-Party,108.9,0,1,Check-Out,0
+66379,City Hotel,44,2018,June,6,23,7,2017-06-07 00:00:00,1,4,5,2,0,0,SC,PRT,Online TA,0,A,D,0,No Deposit,9,0,Transient,145.2,0,2,Check-Out,0
+72504,City Hotel,132,2018,April,4,18,30,2017-04-30 00:00:00,2,2,4,2,0,0,BB,DEU,Direct,0,D,D,0,No Deposit,14,0,Transient,141.075,0,0,Check-Out,0
+112444,Resort Hotel,100,2016,December,12,53,27,2015-12-27 00:00:00,2,5,7,2,0,0,BB,IRL,Offline TA/TO,0,A,A,0,No Deposit,6,0,Transient,45.683,0,0,Check-Out,0
+43990,City Hotel,29,2017,November,11,47,16,2016-11-16 00:00:00,0,3,3,2,0,0,BB,NLD,Direct,0,A,A,0,No Deposit,14,0,Transient,84.7,0,0,Check-Out,0
+9495,City Hotel,50,2017,May,5,21,21,2016-05-21 00:00:00,0,1,1,2,0,0,SC,PRT,Online TA,0,A,A,0,No Deposit,7,0,Transient,98.34,0,0,Canceled,1
+76848,Resort Hotel,27,2018,March,3,13,30,2017-03-30 00:00:00,2,8,10,2,0,0,BB,GBR,Offline TA/TO,0,D,D,0,No Deposit,40,0,Contract,57.178,0,0,Check-Out,0
+18464,City Hotel,31,2017,March,3,12,14,2016-03-14 00:00:00,1,3,4,1,0,0,BB,ITA,Online TA,0,A,A,0,No Deposit,9,0,Transient,93.5,0,1,Check-Out,0
+79743,City Hotel,97,2017,August,8,34,15,2016-08-15 00:00:00,1,0,1,2,1,0,HB,RUS,Online TA,0,A,A,0,No Deposit,9,0,Transient,194.535,0,0,Canceled,1
+118925,City Hotel,108,2016,November,11,48,23,2015-11-23 00:00:00,1,3,4,1,0,0,BB,NOR,Groups,0,A,D,1,No Deposit,37,0,Transient-Party,77,0,0,Check-Out,0
+83428,City Hotel,50,2016,August,8,33,15,2015-08-15 00:00:00,2,2,4,2,0,0,BB,PRT,Groups,0,A,A,0,No Deposit,1,0,Transient-Party,68.2,0,0,Canceled,1
+105093,City Hotel,114,2017,May,5,22,23,2016-05-23 00:00:00,1,1,2,2,0,0,SC,GBR,Online TA,0,A,A,0,No Deposit,9,0,Transient,127.71,0,1,Check-Out,0
+3857,City Hotel,142,2017,July,7,29,11,2016-07-11 00:00:00,1,3,4,2,0,0,BB,GBR,Online TA,0,A,A,0,No Deposit,9,0,Transient,111.738,0,1,Check-Out,0
+68755,City Hotel,11,2016,August,8,32,8,2015-08-08 00:00:00,1,1,2,2,0,1,BB,PRT,Direct,0,A,D,0,No Deposit,14,0,Transient,82.5,0,1,Check-Out,0
+29228,City Hotel,144,2017,August,8,32,1,2016-08-01 00:00:00,2,5,7,3,0,0,BB,GRC,Online TA,0,D,D,0,No Deposit,9,0,Transient,145.728,0,0,Canceled,1
+79979,Resort Hotel,51,2018,March,3,11,16,2017-03-16 00:00:00,2,5,7,1,0,0,Undefined,FRA,Offline TA/TO,0,A,A,0,No Deposit,464,0,Transient,51.7,0,0,Check-Out,0
+28063,City Hotel,126,2017,February,2,10,28,2016-02-28 00:00:00,2,1,3,2,0,0,BB,PRT,Offline TA/TO,0,A,A,1,No Deposit,134,0,Transient-Party,105.6,0,0,Check-Out,0
+104693,City Hotel,78,2017,August,8,34,19,2016-08-19 00:00:00,1,2,3,1,0,0,HB,GBR,Online TA,0,D,D,0,No Deposit,9,0,Transient,201.96,0,0,Canceled,1
+43094,City Hotel,81,2017,November,11,45,3,2016-11-03 00:00:00,0,3,3,2,0,0,BB,FRA,Online TA,0,A,A,0,No Deposit,7,0,Transient,75.317,0,1,Check-Out,0
+75747,City Hotel,13,2017,October,10,44,25,2016-10-25 00:00:00,0,1,1,1,0,0,SC,USA,Online TA,0,A,A,0,No Deposit,7,0,Transient,93.17,0,1,Check-Out,0
+64020,City Hotel,160,2017,October,10,41,3,2016-10-03 00:00:00,1,2,3,2,0,0,BB,BRA,Online TA,0,A,A,0,No Deposit,9,0,Transient,130.68,0,2,Check-Out,0
+71612,City Hotel,19,2018,July,7,26,1,2017-07-01 00:00:00,2,1,3,2,0,0,SC,PRT,Online TA,1,A,A,0,No Deposit,9,0,Transient,156.563,0,1,Check-Out,0
+99406,Resort Hotel,158,2016,October,10,43,24,2015-10-24 00:00:00,0,1,1,1,0,0,BB,PRT,Groups,0,I,I,0,Non Refund,,0,Transient,42.9,0,0,Canceled,0
+52589,City Hotel,131,2017,July,7,29,16,2016-07-16 00:00:00,2,1,3,2,0,0,BB,USA,Online TA,0,A,A,0,No Deposit,9,0,Transient,115.83,0,1,Check-Out,0
+35807,City Hotel,112,2016,October,10,42,16,2015-10-16 00:00:00,0,2,2,2,0,0,HB,PRT,Offline TA/TO,0,A,A,0,Non Refund,6,0,Transient-Party,111.65,0,0,Canceled,1
+76127,City Hotel,53,2018,January,1,2,13,2017-01-13 00:00:00,2,4,6,2,0,0,BB,FRA,Direct,0,D,D,0,No Deposit,14,0,Transient,103.95,0,3,Canceled,1
+107524,Resort Hotel,210,2016,September,9,37,7,2015-09-07 00:00:00,3,7,10,1,0,0,BB,IRL,Offline TA/TO,0,A,A,0,No Deposit,156,0,Contract,48.158,0,1,Check-Out,0
+111352,City Hotel,12,2017,January,1,5,24,2016-01-24 00:00:00,2,2,4,2,0,0,BB,ITA,Online TA,0,A,A,0,No Deposit,9,0,Transient,102.3,0,0,Check-Out,0
+60274,Resort Hotel,13,2018,April,4,17,28,2017-04-28 00:00:00,2,2,4,1,0,0,BB,GBR,Online TA,0,A,C,0,No Deposit,240,0,Transient,108.075,1,1,Check-Out,0
+76750,City Hotel,45,2018,February,2,7,13,2017-02-13 00:00:00,1,3,4,2,1,0,BB,FRA,Online TA,0,A,A,0,No Deposit,9,0,Transient,114.07,0,0,Canceled,1
+43698,City Hotel,184,2018,June,6,22,1,2017-06-01 00:00:00,0,2,2,2,0,0,BB,PRT,Groups,0,A,A,0,Non Refund,58,0,Transient,110,0,0,Canceled,0
+30868,City Hotel,76,2016,October,10,41,9,2015-10-09 00:00:00,1,2,3,2,0,0,BB,PRT,Offline TA/TO,0,A,A,0,No Deposit,21,0,Transient-Party,82.5,0,0,Canceled,1
+39812,Resort Hotel,128,2016,July,7,31,29,2015-07-29 00:00:00,1,4,5,2,0,0,HB,PRT,Online TA,0,G,G,1,No Deposit,240,0,Transient,204.6,0,2,Canceled,1
+105851,City Hotel,520,2017,December,12,49,1,2016-12-01 00:00:00,0,2,2,2,0,0,BB,PRT,Groups,0,A,A,0,Non Refund,1,0,Transient,69.08,0,0,Canceled,0

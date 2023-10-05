@@ -1,0 +1,46 @@
+Column_Name,Description
+Booking ID,Unique Booking number
+hotel,Type of hotel - City/Resort
+is_canceled,"Boolean indicator - 1 indicates booking was cancelled, 0 indicates it was not"
+lead_time,time interval (days) between the date when booking was made and the date when the guest is expected to arrive at the hotel
+arrival_date_year,Year of arrival of guest
+arrival_date_month,Month of arrival of guest
+arrival_date_week_number,"Week number of arrival of guest (can take values from 1 to 52, 53 for leap year)"
+arrival_date_day_of_month,Day of month of arrival of guest (1-31)
+stays_in_weekend_nights,Total weekend night stays
+stays_in_week_nights,Total Week night stays
+adults,Number of Adults (above age 18)
+children,Number of Children (above age 5)
+babies,Number of Babies ( less than age 5)
+meal,"Meal type selected by guests
+Possible choices - 
+1. BB: Bed and Breakfast
+   Guests staying on a bed and breakfast basis will have their morning meal provided by the hotel.
+
+2. HB: Half Board
+   HB refers to a meal plan that includes accommodation, breakfast, and one other main meal, usually dinner. Guests on a half board basis will have breakfast and one additional meal, typically dinner, included in their room rate.
+
+3. FB: Full Board
+   FB indicates that the room rate includes accommodation, breakfast, lunch, and dinner. Guests on a full board basis will have all three meals provided by the hotel.
+
+4. SC: Self-Catering
+   SC signifies that the room or accommodation does not include any meals. Guests opting for self-catering have access to a kitchen or cooking facilities within their accommodation, allowing them to prepare their own meals."
+country,Country of customer who has made the booking
+market_segment,This column categorizes each booking under various market segments 
+reserved_room_type,"Room type reserved by customer (categories can take values from A to L, where A being the highest end and L being the lowest end room type)"
+assigned_room_type,Room type that eventually got assigned to the customer
+booking_changes,Number of changes made for a particular booking
+deposit_type,"the deposit type refers to the amount of money that a guest is required to pay in advance to secure their reservation. 
+1.No Deposit: This means that the hotel does not require any upfront payment or deposit at the time of booking.
+2.Refundable Deposit: A refundable deposit, also known as a security deposit, is an amount that guests need to pay upfront when making a reservation.
+3.Non-Refundable Deposit: A non-refundable deposit requires guests to make a payment upfront at the time of booking, and this payment is non-refundable under any circumstances."
+agent,Agend Id through which booking was made
+customer_type,"This column helps identify the type of customer - 
+1.Transient: Transient customers refer to individual travelers or small groups who book hotel accommodations for a short duration
+2.Contract: Contract customers are corporate clients, government agencies, or organizations that have an ongoing agreement or contract with a hotel
+3.Transient-Party: Transient-party customers are similar to transient customers but with a small group of people traveling together
+4.Group: Group customers refer to larger groups of people, typically ten or more individuals, who require multiple rooms and have specific requirements or needs"
+adr,Average Daily Rate ($)- this tells us about the amount paid for each night 
+required_car_parking_spaces,Number of parking spaces required
+total_of_special_requests,Number of special requests made
+reservation_status,"Reservation status of the booking - holds values like check-out, no show and cancelled"
