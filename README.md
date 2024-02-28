@@ -1,5 +1,5 @@
 # FractalDS
-## Fractal Data Science
+## Fractal Data Science Professional Certificate
 
 Data science is projected to create 11.5 1 million global job openings by 2026 and offers many of the remote 2 job opportunities in the industry.
 
